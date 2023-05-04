@@ -47,6 +47,9 @@
     ],
     "testEnvironment": "node"
   },
+  "dependencies": {
+    "server-only": "0.0.1"
+  },
   "devDependencies": {
     "@babel/core": "7.21.0",
     "@changesets/cli": "2.26.0",
